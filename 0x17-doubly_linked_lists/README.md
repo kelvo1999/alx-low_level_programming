@@ -1,5 +1,5 @@
 # C - Doubly linked lists
-
+# c is fun
 In this project, I learned about using doubly-linked lists in C.
 
 ## Tests :heavy_check_mark:
